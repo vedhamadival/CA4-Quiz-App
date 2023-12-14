@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unknown-property */
 /* eslint-disable no-unused-vars */
 import { useState  , useEffect} from 'react'
 import questions from '../components/QuestionData'
